@@ -1,0 +1,1 @@
+# magasin_tracking_asset_and_User
