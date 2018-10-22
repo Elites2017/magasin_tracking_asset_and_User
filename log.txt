@@ -1,0 +1,122 @@
+Mercredi 30-11-2016 : 
+Mercredi 30-11-2016 : 
+Mercredi 30-11-2016 : 
+Mercredi 30-11-2016 : 
+1
+1
+Administrator
+Administrator
+Administrator
+Audin91
+Administrator
+login :Jeudi 01-12-2016 / 18:17:34, Administrator
+login :Jeudi 01-12-2016 18:21:09, Administrator
+Suppression de privillege dans un groupe :Jeudi 01-12-2016 / 20:09:05, Administrator
+Suppression de privillege dans un groupe :Jeudi 01-12-2016 / 20:27:24, Administrator
+Modifier nom groupe :Jeudi 01-12-2016 / 20:34:16, Administrator
+login :Lundi 05-12-2016 19:01:27, Rock_g
+login :Lundi 05-12-2016 19:16:46, Audin91
+login :Lundi 05-12-2016 19:41:57, Administrator
+login :Lundi 05-12-2016 19:49:12, Rock_g
+logout :Lundi 05-12-2016 19:58:37, 
+login :Lundi 05-12-2016 19:58:48, Rock_g
+logout :Lundi 05-12-2016 19:58:52, 
+logout :Lundi 05-12-2016 20:02:41, Administrator
+login :Lundi 05-12-2016 20:44:07, Administrator
+login :Lundi 05-12-2016 22:13:28, Rock_g
+logout :Lundi 05-12-2016 22:13:34, Rock_g
+login :Lundi 05-12-2016 22:42:35, Rock_g
+logout :Lundi 05-12-2016 22:45:01, Rock_g
+login :Lundi 05-12-2016 22:49:06, Rock_g
+logout :Lundi 05-12-2016 22:49:10, Rock_g
+login :Lundi 05-12-2016 22:51:59, Rock_g
+logout :Lundi 05-12-2016 22:52:02, Rock_g
+login :Mardi 06-12-2016 00:27:31, Rock_g
+logout :Mardi 06-12-2016 00:28:49, Rock_g
+login :Mardi 06-12-2016 00:30:05, Rock_g
+logout :Mardi 06-12-2016 00:30:31, Rock_g
+login :Mardi 06-12-2016 00:33:39, Rock_g
+logout :Mardi 06-12-2016 00:34:19, Rock_g
+login :Mardi 06-12-2016 00:34:59, Rock_g
+logout :Mardi 06-12-2016 00:35:40, Rock_g
+login :Lundi 05-12-2016 17:01:52, Administrator
+logout :Lundi 05-12-2016 17:02:07, Administrator
+login :Lundi 05-12-2016 17:02:43, Administrator
+login :Lundi 05-12-2016 17:04:47, Rock_g
+login :Lundi 05-12-2016 17:05:28, Rock_g
+logout :Lundi 05-12-2016 17:07:11, Administrator
+login :Lundi 05-12-2016 17:07:26, Administrator
+login :Lundi 05-12-2016 17:09:47, Rock_g
+logout :Lundi 05-12-2016 17:10:05, Rock_g
+login :Lundi 05-12-2016 17:10:12, Rock_g
+login : 05-12-2016 17:11:19, Rock_g
+logout :Lundi 05-12-2016 17:11:20, Administrator
+login : 05-12-2016 17:11:21, Rock_g
+login : 05-12-2016 17:11:22, Rock_g
+login : 05-12-2016 17:11:22, Administrator
+login : 05-12-2016 20:15:58, Rock_g
+login : 05-12-2016 20:16:25, Rock_g
+logout :Lundi 05-12-2016 20:17:09, Rock_g
+login : 05-12-2016 20:17:18, Rock_g
+login : , Rock_g
+login : , Rock_g
+login : , Rock_g
+login : , Rock_g
+login : , Rock_g
+login : , Rock_g
+login : , Rock_g
+login : , Rock_g
+login : , Rock_g
+login : , Rock_g
+login :Lundi 05-12-2016 20:19:38, Rock_g
+login :Lundi 05-12-2016 20:19:40, Rock_g
+login :Lundi 05-12-2016 20:20:02, Rock_g
+logout :Lundi 05-12-2016 20:20:45, Rock_g
+login :Lundi 05-12-2016 20:20:51, Rock_g
+logout :Lundi 05-12-2016 17:24:53, Rock_g
+login :Lundi 05-12-2016 17:25:03, Rock_g
+logout :Mardi 06-12-2016 01:30:24, Rock_g
+login :Mardi 06-12-2016 01:30:40, Rock_g
+logout :Mardi 06-12-2016 01:30:50, Administrator
+login :Mardi 06-12-2016 01:30:52, Administrator
+logout :Lundi 05-12-2016 17:31:23, Rock_g
+login :Lundi 05-12-2016 17:31:33, Rock_g
+logout :Lundi 05-12-2016 17:32:05, Rock_g
+login :Lundi 05-12-2016 17:32:57, Rock_g
+logout :Lundi 05-12-2016 17:33:09, Rock_g
+logout :Lundi 05-12-2016 17:33:53, Administrator
+login :Lundi 05-12-2016 17:33:54, Administrator
+login :Mercredi 07-12-2016 11:06:27, Administrator
+login :Mercredi 07-12-2016 11:17:18, Rock_g
+login :Mercredi 07-12-2016 11:31:29, orby
+logout :Mercredi 07-12-2016 11:31:44, orby
+login :Mercredi 07-12-2016 11:31:49, Rock_g
+logout :Mercredi 07-12-2016 11:33:30, Rock_g
+login :Mercredi 07-12-2016 11:33:35, orby
+logout :Mercredi 07-12-2016 11:35:17, orby
+login :Mercredi 07-12-2016 11:35:22, orby
+login :Mercredi 07-12-2016 11:37:54, Administrator
+login :Mercredi 07-12-2016 13:49:27, Rock_g
+login :Mercredi 07-12-2016 14:04:22, orby
+login :Jeudi 08-12-2016 11:35:09, Administrator
+logout :Jeudi 08-12-2016 11:55:10, Administrator
+login :Jeudi 08-12-2016 11:55:24, Administrator
+login :Jeudi 08-12-2016 13:12:49, Audin91
+login :Jeudi 08-12-2016 13:34:12, Rock_g
+login :Vendredi 09-12-2016 08:53:48, Rock_g
+login :Vendredi 09-12-2016 10:14:06, Rock_g
+login :Vendredi 09-12-2016 12:32:50, Rock_g
+login :Vendredi 09-12-2016 13:06:56, Rock_g
+login :Vendredi 09-12-2016 13:08:05, Rock_g
+logout :Vendredi 09-12-2016 16:22:58, Rock_g
+login :Vendredi 09-12-2016 16:23:51, Rock_g
+login :Lundi 12-12-2016 10:14:36, Administrator
+login :Lundi 12-12-2016 10:43:26, Rock_g
+login :Lundi 12-12-2016 11:07:49, Rock_g
+login :Lundi 12-12-2016 11:11:42, Rock_g
+login :Lundi 12-12-2016 11:13:14, Rock_g
+login :Lundi 12-12-2016 11:14:30, Rock_g
+login :Lundi 12-12-2016 11:16:38, Rock_g
+login :Lundi 12-12-2016 11:46:11, Rock_g
+login :Lundi 12-12-2016 12:48:35, Administrator
+login :Lundi 12-12-2016 12:50:08, Administrator

@@ -1,0 +1,34 @@
+
+
+.wel{
+	display: block;
+	height: auto;
+}
+.pawel{
+	display: none;
+	height: 0px;
+}
+
+
+.box1{
+
+	background: #9DCEFF;
+	width: 400px;
+	height: 200px;
+	overflow: hidden;
+
+}
+.boxscrolly{ /* Utiliser a la page d'inscription*/
+	
+	overflow-y: scroll;
+	/*overflow: hidden;*/
+	max-height: 430px;
+	
+}
+.boxscrolly2{ /* Utiliser a la page d'inscription*/
+	
+	overflow-y: scroll;
+	/*overflow: hidden;*/
+	max-height: 200px;
+	
+}
